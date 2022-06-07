@@ -1,14 +1,18 @@
-### Hi there 👋
+# About Me
 
-**dg0835/dg0835** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Daniel, a *Computer Science graduate* from Royal Holloway University of London.
 
-Here are some ideas to get you started:
+I am currently training to become a **data engineer**.
 
-- 🔭 I’m currently working on ... Data Engineering
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Projects I have done:
++ Travelling Salesperson Problem
++ Video Game Web Scraper
+
+## Skills:
++ Python
++ HTML
++ CSS
++ JavaScript
++ SQL
++ Linux
+
